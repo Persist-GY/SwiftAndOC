@@ -28,7 +28,7 @@ Swift 和 OC 混编组件
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'SwiftAndOC/**/*'
+  s.source_files = 'SwiftAndOC/*'
   
   s.swift_version = ['5.1', '5.2', '5.3']
   
